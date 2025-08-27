@@ -1,0 +1,136 @@
+{
+  "header": {
+    "title": "Leads Dashboard (Unfiltered)",
+    "company": "DRIVEPASS"
+  },
+  "page": {
+    "title": "All Leads Landing Page",
+    "subtitle": "Manage and track your leads effectively"
+  },
+  "stats": {
+    "totalLeads": "Total Leads",
+    "hotLeads": "Hot Leads",
+    "activeLeads": "Active Leads",
+    "converted": "Converted"
+  },
+  "filters": {
+    "title": "Search & Filters",
+    "searchPlaceholder": "Search leads...",
+    "columns": "Columns",
+    "showAll": "Show All",
+    "hideAll": "Hide All",
+    "columnVisibility": "Column Visibility",
+    "alwaysVisible": "Always Visible",
+    "statusPlaceholder": "Status",
+    "modelPlaceholder": "Model",
+    "cityPlaceholder": "City",
+    "leadSourcePlaceholder": "Lead Source",
+    "campaignSourcePlaceholder": "Campaign Source"
+  },
+  "table": {
+    "leads": "Leads",
+    "serialNumber": "S.No",
+    "firstContactedDate": "First Contacted Date",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "phoneNumber": "Phone Number",
+    "email": "Email",
+    "city": "City",
+    "model": "Model",
+    "status": "Status",
+    "subStatus": "Sub-Status",
+    "leadSource": "Lead Source",
+    "campaignName": "Campaign Name",
+    "actions": "Actions",
+    "leadJourney": "Lead Journey",
+    "viewLeadJourney": "View Lead Journey"
+  },
+  "sidebar": {
+    "allLeads": "All Leads",
+    "myLeads": "My Leads",
+    "assignedLeads": "Assigned Leads",
+    "nextFollowUp": "Next Follow Up",
+    "closedLeads": "Closed Leads",
+    "transferredFromSM": "Transferred from SM",
+    "reopenedLeads": "Reopened Leads"
+  },
+  "modals": {
+    "leadJourney": {
+      "title": "Lead Journey",
+      "close": "Close"
+    },
+    "editLead": {
+      "title": "Edit Lead",
+      "save": "Save Changes",
+      "cancel": "Cancel"
+    }
+  },
+  "status": {
+    "hotLead": "Hot Lead",
+    "warmLead": "Warm Lead",
+    "active": "Active",
+    "coldLead": "Cold Lead",
+    "converted": "Converted",
+    "closed": "Closed"
+  },
+  "subStatus": {
+    "followUp": "Follow Up",
+    "considering": "Considering",
+    "newLead": "New Lead",
+    "contacted": "Contacted"
+  },
+  "leadSource": {
+    "facebook": "Facebook",
+    "google": "Google",
+    "website": "Website",
+    "referral": "Referral",
+    "walkIn": "Walk-in"
+  },
+  "language": {
+    "english": "English",
+    "arabic": "العربية",
+    "spanish": "Español"
+  },
+  "common": {
+    "all": "All",
+    "edit": "Edit",
+    "view": "View",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "back": "Back",
+    "saving": "Saving..."
+  },
+  "leadCleaning": {
+    "title": "Lead Screening",
+    "leadNotFound": "Lead not found",
+    "leadDetails": "Lead General Information",
+    "contactInformation": "Contact Information",
+    "assignment": "Assignment",
+    "ticketDetails": "Ticket Details",
+    "priority": "Priority",
+    "lastContact": "Last Contact",
+    "street": "Street",
+    "state": "State",
+    "zipCode": "Zip Code",
+    "secondaryPhone": "Secondary Phone",
+    "preferredContact": "Preferred Contact",
+    "timeZone": "Time Zone",
+    "team": "Team",
+    "followUpDate": "Follow Up Date",
+    "notes": "Notes",
+    "notesPlaceholder": "Add notes about this lead...",
+    "ticketId": "Ticket ID",
+    "issueCategory": "Issue Category",
+    "resolutionStatus": "Resolution Status",
+    "timeline": "Timeline",
+    "created": "Created",
+    "lastUpdated": "Last Updated",
+    "salutation": "Salutation",
+    "branch": "Branch",
+    "leadChannel": "Lead Channel",
+    "leadSource": "Lead Source",
+    "leadSubStatus": "Lead Sub Status",
+    "leadStatusReason": "Lead Status Reason"
+  }
+}

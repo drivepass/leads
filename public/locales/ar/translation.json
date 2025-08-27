@@ -1,0 +1,137 @@
+{
+  "header": {
+    "title": "لوحة العملاء المحتملين (غير مصفاة)",
+    "company": "درايف باس"
+  },
+  "page": {
+    "title": "صفحة جميع العملاء المحتملين",
+    "subtitle": "إدارة ومتابعة العملاء المحتملين بفعالية"
+  },
+  "stats": {
+    "totalLeads": "إجمالي العملاء المحتملين",
+    "hotLeads": "العملاء الساخنون",
+    "activeLeads": "العملاء النشطون",
+    "converted": "المحولون"
+  },
+  "filters": {
+    "title": "البحث والمرشحات",
+    "searchPlaceholder": "البحث في العملاء المحتملين...",
+    "columns": "الأعمدة",
+    "showAll": "إظهار الكل",
+    "hideAll": "إخفاء الكل",
+    "columnVisibility": "رؤية الأعمدة",
+    "alwaysVisible": "مرئي دائماً",
+    "statusPlaceholder": "الحالة",
+    "modelPlaceholder": "الموديل",
+    "cityPlaceholder": "المدينة",
+    "leadSourcePlaceholder": "مصدر العميل المحتمل",
+    "campaignSourcePlaceholder": "مصدر الحملة"
+  },
+  "table": {
+    "leads": "العملاء المحتملون",
+    "serialNumber": "الرقم التسلسلي",
+    "firstContactedDate": "تاريخ أول اتصال",
+    "firstName": "الاسم الأول",
+    "lastName": "اسم العائلة",
+    "phoneNumber": "رقم الهاتف",
+    "email": "البريد الإلكتروني",
+    "city": "المدينة",
+    "model": "الموديل",
+    "status": "الحالة",
+    "subStatus": "الحالة الفرعية",
+    "leadSource": "مصدر العميل المحتمل",
+    "campaignName": "اسم الحملة",
+    "actions": "الإجراءات",
+    "leadJourney": "رحلة العميل المحتمل",
+    "viewLeadJourney": "عرض رحلة العميل المحتمل",
+    "assignedSalesman": "مندوب المبيعات المعين"
+  },
+  "leadCleaning": {
+    "title": "فحص العميل المحتمل",
+    "leadNotFound": "العميل المحتمل غير موجود",
+    "leadDetails": "المعلومات العامة للعميل المحتمل",
+    "contactInformation": "معلومات الاتصال",
+    "assignment": "التعيين",
+    "ticketDetails": "تفاصيل التذكرة",
+    "priority": "الأولوية",
+    "lastContact": "آخر اتصال",
+    "street": "الشارع",
+    "state": "الولاية",
+    "zipCode": "الرمز البريدي",
+    "secondaryPhone": "هاتف ثانوي",
+    "preferredContact": "طريقة الاتصال المفضلة",
+    "timeZone": "المنطقة الزمنية",
+    "team": "الفريق",
+    "followUpDate": "تاريخ المتابعة",
+    "notes": "ملاحظات",
+    "notesPlaceholder": "أضف ملاحظات حول هذا العميل المحتمل...",
+    "ticketId": "رقم التذكرة",
+    "issueCategory": "فئة المشكلة",
+    "resolutionStatus": "حالة الحل",
+    "timeline": "الجدول الزمني",
+    "created": "تاريخ الإنشاء",
+    "lastUpdated": "آخر تحديث",
+    "salutation": "التحية",
+    "branch": "الفرع",
+    "leadChannel": "قناة العميل المحتمل",
+    "leadSource": "مصدر العميل المحتمل",
+    "leadSubStatus": "الحالة الفرعية للعميل المحتمل",
+    "leadStatusReason": "سبب حالة العميل المحتمل"
+  },
+  "sidebar": {
+    "allLeads": "جميع العملاء المحتملين",
+    "myLeads": "عملائي المحتملون",
+    "assignedLeads": "العملاء المحتملون المكلفون",
+    "nextFollowUp": "المتابعة التالية",
+    "closedLeads": "العملاء المحتملون المغلقون",
+    "transferredFromSM": "محول من مدير المبيعات",
+    "reopenedLeads": "العملاء المحتملون المعاد فتحهم"
+  },
+  "modals": {
+    "leadJourney": {
+      "title": "رحلة العميل المحتمل",
+      "close": "إغلاق"
+    },
+    "editLead": {
+      "title": "تحرير العميل المحتمل",
+      "save": "حفظ التغييرات",
+      "cancel": "إلغاء"
+    }
+  },
+  "status": {
+    "hotLead": "عميل محتمل ساخن",
+    "warmLead": "عميل محتمل دافئ",
+    "active": "نشط",
+    "coldLead": "عميل محتمل بارد",
+    "converted": "محول",
+    "closed": "مغلق"
+  },
+  "subStatus": {
+    "followUp": "متابعة",
+    "considering": "يفكر",
+    "newLead": "عميل محتمل جديد",
+    "contacted": "تم الاتصال"
+  },
+  "leadSource": {
+    "facebook": "فيسبوك",
+    "google": "جوجل",
+    "website": "الموقع الإلكتروني",
+    "referral": "إحالة",
+    "walkIn": "زيارة مباشرة"
+  },
+  "language": {
+    "english": "English",
+    "arabic": "العربية",
+    "spanish": "Español"
+  },
+  "common": {
+    "all": "الكل",
+    "edit": "تحرير",
+    "view": "عرض",
+    "close": "إغلاق",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "back": "رجوع",
+    "saving": "جاري الحفظ"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "header": {
+    "title": "Panel de Clientes Potenciales (Sin Filtrar)",
+    "company": "DRIVEPASS"
+  },
+  "page": {
+    "title": "Página de Todos los Clientes Potenciales",
+    "subtitle": "Gestiona y rastrea tus clientes potenciales de manera efectiva"
+  },
+  "stats": {
+    "totalLeads": "Total de Clientes Potenciales",
+    "hotLeads": "Clientes Potenciales Calientes",
+    "activeLeads": "Clientes Potenciales Activos",
+    "converted": "Convertidos"
+  },
+  "filters": {
+    "title": "Buscar y Filtros",
+    "searchPlaceholder": "Buscar clientes potenciales...",
+    "columns": "Columnas",
+    "showAll": "Mostrar Todo",
+    "hideAll": "Ocultar Todo",
+    "columnVisibility": "Visibilidad de Columnas",
+    "alwaysVisible": "Siempre Visible",
+    "statusPlaceholder": "Estado",
+    "modelPlaceholder": "Modelo",
+    "cityPlaceholder": "Ciudad",
+    "leadSourcePlaceholder": "Fuente del Cliente Potencial",
+    "campaignSourcePlaceholder": "Fuente de Campaña"
+  },
+  "table": {
+    "leads": "Clientes Potenciales",
+    "serialNumber": "No. Serie",
+    "firstContactedDate": "Fecha de Primer Contacto",
+    "firstName": "Nombre",
+    "lastName": "Apellido",
+    "phoneNumber": "Número de Teléfono",
+    "email": "Correo Electrónico",
+    "city": "Ciudad",
+    "model": "Modelo",
+    "status": "Estado",
+    "subStatus": "Sub-Estado",
+    "leadSource": "Fuente del Cliente Potencial",
+    "campaignName": "Nombre de Campaña",
+    "actions": "Acciones",
+    "leadJourney": "Viaje del Cliente Potencial",
+    "viewLeadJourney": "Ver Viaje del Cliente Potencial"
+  },
+  "sidebar": {
+    "allLeads": "Todos los Clientes Potenciales",
+    "myLeads": "Mis Clientes Potenciales",
+    "assignedLeads": "Clientes Potenciales Asignados",
+    "nextFollowUp": "Próximo Seguimiento",
+    "closedLeads": "Clientes Potenciales Cerrados",
+    "transferredFromSM": "Transferido del Gerente de Ventas",
+    "reopenedLeads": "Clientes Potenciales Reabiertos"
+  },
+  "modals": {
+    "leadJourney": {
+      "title": "Viaje del Cliente Potencial",
+      "close": "Cerrar"
+    },
+    "editLead": {
+      "title": "Editar Cliente Potencial",
+      "save": "Guardar Cambios",
+      "cancel": "Cancelar"
+    }
+  },
+  "status": {
+    "hotLead": "Cliente Potencial Caliente",
+    "warmLead": "Cliente Potencial Tibio",
+    "active": "Activo",
+    "coldLead": "Cliente Potencial Frío",
+    "converted": "Convertido",
+    "closed": "Cerrado"
+  },
+  "subStatus": {
+    "followUp": "Seguimiento",
+    "considering": "Considerando",
+    "newLead": "Nuevo Cliente Potencial",
+    "contacted": "Contactado"
+  },
+  "leadSource": {
+    "facebook": "Facebook",
+    "google": "Google",
+    "website": "Sitio Web",
+    "referral": "Referencia",
+    "walkIn": "Visita Directa"
+  },
+  "language": {
+    "english": "English",
+    "arabic": "العربية",
+    "spanish": "Español"
+  },
+  "common": {
+    "all": "Todo",
+    "edit": "Editar",
+    "view": "Ver",
+    "close": "Cerrar",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "back": "Atrás",
+    "saving": "Guardando..."
+  },
+  "leadCleaning": {
+    "title": "Evaluación de Leads",
+    "leadNotFound": "Lead no encontrado",
+    "leadDetails": "Información General del Lead",
+    "contactInformation": "Información de Contacto",
+    "assignment": "Asignación",
+    "ticketDetails": "Detalles del Ticket",
+    "priority": "Prioridad",
+    "lastContact": "Último Contacto",
+    "street": "Calle",
+    "state": "Estado",
+    "zipCode": "Código Postal",
+    "secondaryPhone": "Teléfono Secundario",
+    "preferredContact": "Contacto Preferido",
+    "timeZone": "Zona Horaria",
+    "team": "Equipo",
+    "followUpDate": "Fecha de Seguimiento",
+    "notes": "Notas",
+    "notesPlaceholder": "Añadir notas sobre este lead...",
+    "ticketId": "ID del Ticket",
+    "issueCategory": "Categoría del Problema",
+    "resolutionStatus": "Estado de Resolución",
+    "timeline": "Cronología",
+    "created": "Creado",
+    "lastUpdated": "Última Actualización",
+    "salutation": "Saludo",
+    "branch": "Sucursal",  
+    "leadChannel": "Canal del Lead",
+    "leadSource": "Fuente del Lead",
+    "leadSubStatus": "Sub Estado del Lead",
+    "leadStatusReason": "Razón del Estado del Lead"
+  }
+}
